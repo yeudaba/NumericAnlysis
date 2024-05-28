@@ -1,3 +1,0 @@
-# NumericAnlysis
-# NumericAnlysis
-# NumericAnlysis

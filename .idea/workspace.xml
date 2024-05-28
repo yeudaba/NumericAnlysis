@@ -5,7 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="258fa9ce-a4ae-4a08-a5c5-882dad2cb673" name="Changes" comment="add all">
+      <change beforePath="$PROJECT_DIR$/.idea/NumericAnlyisis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NumericAnlyisis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Last quiz/Romberg_method.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Last quiz/Simpson_method.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Last quiz/Trapezoidal_method.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Last quiz/colors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Last quiz/gaussian_elimination.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Last quiz/lagrange_interpolation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Last quiz/linear_interpolation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Last quiz/matrix_utility.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Last quiz/newtonRapson.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Last quiz/polynomial_interpolation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Last quiz/secant_method.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,36 +32,78 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2gSY8tG2o8hFkZN2yiSZhni1byB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Romberg_method.executor": "Run",
+    "Python.Simpson_method.executor": "Run",
     "Python.Trapezoidal_method.executor": "Run",
+    "Python.colors.executor": "Run",
+    "Python.gaussian_elimination.executor": "Run",
+    "Python.inverse_matrix.executor": "Run",
     "Python.lagrange_interpolation.executor": "Run",
+    "Python.linear_interpolation.executor": "Run",
     "Python.matrix_utility.executor": "Run",
+    "Python.newtonRapson.executor": "Run",
+    "Python.polynomial_interpolation.executor": "Run",
+    "Python.secant_method.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/yeuda/PycharmProjects/NumericAnlysis/Last quiz",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yeuda\PycharmProjects\NumericAnlysis\Last quiz" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="colors" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="NumericAnlyisis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\yeuda\PycharmProjects\NumericAnlysis\Last quiz" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Last quiz/colors.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
       </set>
     </attachedChunks>
   </component>
@@ -60,6 +116,9 @@
       <option name="presentableId" value="Default" />
       <updated>1715692290143</updated>
       <workItem from="1715692292890" duration="1741000" />
+      <workItem from="1716831886281" duration="964000" />
+      <workItem from="1716877219608" duration="1574000" />
+      <workItem from="1716879317180" duration="2122000" />
     </task>
     <task id="LOCAL‎-00001" summary="add">
       <option name="closed" value="true" />
@@ -121,8 +180,20 @@
     <option name="LAST_COMMIT_MESSAGE" value="add all" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/NumericAnlyisis$Trapezoidal_method.coverage" NAME="Trapezoidal_method Coverage Results" MODIFIED="1715693514540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Last quiz" />
-    <SUITE FILE_PATH="coverage/NumericAnlyisis$matrix_utility.coverage" NAME="matrix_utility Coverage Results" MODIFIED="1715693280367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Last quiz" />
+    <SUITE FILE_PATH="coverage/NumericAnlysis$Simpson_method.coverage" NAME="Simpson_method Coverage Results" MODIFIED="1716880439821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Last quiz" />
+    <SUITE FILE_PATH="coverage/NumericAnlysis$newtonRapson.coverage" NAME="newtonRapson Coverage Results" MODIFIED="1716880418925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Last quiz" />
+    <SUITE FILE_PATH="coverage/NumericAnlysis$Romberg_method.coverage" NAME="Romberg_method Coverage Results" MODIFIED="1716880431520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Last quiz" />
+    <SUITE FILE_PATH="coverage/NumericAnlysis$Trapezoidal_method.coverage" NAME="Trapezoidal_method Coverage Results" MODIFIED="1716880444217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Last quiz" />
     <SUITE FILE_PATH="coverage/NumericAnlyisis$lagrange_interpolation.coverage" NAME="lagrange_interpolation Coverage Results" MODIFIED="1715693078630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Last quiz" />
+    <SUITE FILE_PATH="coverage/NumericAnlysis$matrix_utility.coverage" NAME="matrix_utility Coverage Results" MODIFIED="1716880474352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NumericAnlysis$linear_interpolation.coverage" NAME="linear_interpolation Coverage Results" MODIFIED="1716880403946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Last quiz" />
+    <SUITE FILE_PATH="coverage/NumericAnlysis$inverse_matrix.coverage" NAME="inverse_matrix Coverage Results" MODIFIED="1716880761358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Corrected codes with examples" />
+    <SUITE FILE_PATH="coverage/NumericAnlysis$colors.coverage" NAME="colors Coverage Results" MODIFIED="1716880357190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:\Users\yeuda\PycharmProjects\NumericAnlysis\Last quiz" />
+    <SUITE FILE_PATH="coverage/NumericAnlysis$secant_method.coverage" NAME="secant_method Coverage Results" MODIFIED="1716880435231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Last quiz" />
+    <SUITE FILE_PATH="coverage/NumericAnlysis$lagrange_interpolation.coverage" NAME="lagrange_interpolation Coverage Results" MODIFIED="1716880774202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Corrected codes with examples" />
+    <SUITE FILE_PATH="coverage/NumericAnlyisis$Trapezoidal_method.coverage" NAME="Trapezoidal_method Coverage Results" MODIFIED="1715693514540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Last quiz" />
+    <SUITE FILE_PATH="coverage/NumericAnlysis$gaussian_elimination.coverage" NAME="gaussian_elimination Coverage Results" MODIFIED="1716880752734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Corrected codes with examples" />
+    <SUITE FILE_PATH="coverage/NumericAnlyisis$matrix_utility.coverage" NAME="matrix_utility Coverage Results" MODIFIED="1715693280367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Last quiz" />
+    <SUITE FILE_PATH="coverage/NumericAnlysis$polynomial_interpolation.coverage" NAME="polynomial_interpolation Coverage Results" MODIFIED="1716880422857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Last quiz" />
   </component>
 </project>
