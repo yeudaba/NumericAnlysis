@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="258fa9ce-a4ae-4a08-a5c5-882dad2cb673" name="Changes" comment="Corrected codes + examples" />
+    <list default="true" id="258fa9ce-a4ae-4a08-a5c5-882dad2cb673" name="Changes" comment="Corrected codes + examples">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Corrected codes with examples/gaussian_elimination.py" beforeDir="false" afterPath="$PROJECT_DIR$/Corrected codes with examples/gaussian_elimination.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +105,7 @@
       <workItem from="1715692292890" duration="1741000" />
       <workItem from="1716831886281" duration="964000" />
       <workItem from="1716877219608" duration="1574000" />
-      <workItem from="1716879317180" duration="2463000" />
+      <workItem from="1716879317180" duration="3622000" />
     </task>
     <task id="LOCAL‎-00001" summary="add">
       <option name="closed" value="true" />
@@ -168,7 +171,15 @@
       <option name="project" value="LOCAL‎" />
       <updated>1716883298863</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL‎-00009" summary="Corrected codes + examples">
+      <option name="closed" value="true" />
+      <created>1716883353189</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL‎-00009" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1716883353189</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,7 +204,7 @@
     <SUITE FILE_PATH="coverage/NumericAnlysis$secant_method.coverage" NAME="secant_method Coverage Results" MODIFIED="1716880435231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Last quiz" />
     <SUITE FILE_PATH="coverage/NumericAnlysis$lagrange_interpolation.coverage" NAME="lagrange_interpolation Coverage Results" MODIFIED="1716880774202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Corrected codes with examples" />
     <SUITE FILE_PATH="coverage/NumericAnlyisis$Trapezoidal_method.coverage" NAME="Trapezoidal_method Coverage Results" MODIFIED="1715693514540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Last quiz" />
-    <SUITE FILE_PATH="coverage/NumericAnlysis$gaussian_elimination.coverage" NAME="gaussian_elimination Coverage Results" MODIFIED="1716880752734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Corrected codes with examples" />
+    <SUITE FILE_PATH="coverage/NumericAnlysis$gaussian_elimination.coverage" NAME="gaussian_elimination Coverage Results" MODIFIED="1716883828440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Corrected codes with examples" />
     <SUITE FILE_PATH="coverage/NumericAnlyisis$matrix_utility.coverage" NAME="matrix_utility Coverage Results" MODIFIED="1715693280367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Last quiz" />
     <SUITE FILE_PATH="coverage/NumericAnlysis$polynomial_interpolation.coverage" NAME="polynomial_interpolation Coverage Results" MODIFIED="1716880422857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Last quiz" />
   </component>

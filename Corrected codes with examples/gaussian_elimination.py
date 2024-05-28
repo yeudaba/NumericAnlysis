@@ -1,5 +1,4 @@
 import numpy as np
-from colors import bcolors
 
 
 def gaussianElimination(mat):
