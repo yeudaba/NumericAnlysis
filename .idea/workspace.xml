@@ -13,6 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -29,33 +30,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Romberg_method.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Simpson_method.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Trapezoidal_method.executor&quot;: &quot;Run&quot;,
-    &quot;Python.colors.executor&quot;: &quot;Run&quot;,
-    &quot;Python.gaussian_elimination.executor&quot;: &quot;Run&quot;,
-    &quot;Python.inverse_matrix.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lagrange_interpolation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.linear_interpolation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.matrix_utility.executor&quot;: &quot;Run&quot;,
-    &quot;Python.newtonRapson.executor&quot;: &quot;Run&quot;,
-    &quot;Python.polynomial_interpolation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.secant_method.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/yeuda/PycharmProjects/NumericAnlysis/Last quiz&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.LU_ factorization.executor": "Run",
+    "Python.Romberg_method.executor": "Run",
+    "Python.Simpson_method.executor": "Run",
+    "Python.Trapezoidal_method.executor": "Run",
+    "Python.colors.executor": "Run",
+    "Python.condition_of_linear_equations.executor": "Run",
+    "Python.gaussian_elimination.executor": "Run",
+    "Python.inverse_matrix.executor": "Run",
+    "Python.lagrange_interpolation.executor": "Run",
+    "Python.linear_interpolation.executor": "Run",
+    "Python.matrix_utility.executor": "Run",
+    "Python.newtonRapson.executor": "Run",
+    "Python.polynomial_interpolation.executor": "Run",
+    "Python.secant_method.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/yeuda/PycharmProjects/NumericAnlysis/Last quiz",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\yeuda\PycharmProjects\NumericAnlysis\Last quiz" />
@@ -106,7 +109,7 @@
       <workItem from="1716877219608" duration="1574000" />
       <workItem from="1716879317180" duration="9071000" />
       <workItem from="1716906653678" duration="304000" />
-      <workItem from="1716963294234" duration="3728000" />
+      <workItem from="1716963294234" duration="4632000" />
     </task>
     <task id="LOCAL‎-00001" summary="add">
       <option name="closed" value="true" />
@@ -188,7 +191,15 @@
       <option name="project" value="LOCAL‎" />
       <updated>1716886175472</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL‎-00011" summary="Corrected codes + examples">
+      <option name="closed" value="true" />
+      <created>1716976770900</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL‎-00011" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1716976770900</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,10 +216,12 @@
     <SUITE FILE_PATH="coverage/NumericAnlysis$newtonRapson.coverage" NAME="newtonRapson Coverage Results" MODIFIED="1716963403473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Corrected codes with examples" />
     <SUITE FILE_PATH="coverage/NumericAnlysis$Romberg_method.coverage" NAME="Romberg_method Coverage Results" MODIFIED="1716880431520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Last quiz" />
     <SUITE FILE_PATH="coverage/NumericAnlysis$Trapezoidal_method.coverage" NAME="Trapezoidal_method Coverage Results" MODIFIED="1716886847177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Corrected codes with examples" />
+    <SUITE FILE_PATH="coverage/NumericAnlysis$condition_of_linear_equations.coverage" NAME="condition_of_linear_equations Coverage Results" MODIFIED="1716977792734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Corrected codes with examples" />
     <SUITE FILE_PATH="coverage/NumericAnlyisis$lagrange_interpolation.coverage" NAME="lagrange_interpolation Coverage Results" MODIFIED="1715693078630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Last quiz" />
     <SUITE FILE_PATH="coverage/NumericAnlysis$matrix_utility.coverage" NAME="matrix_utility Coverage Results" MODIFIED="1716963367931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Corrected codes with examples" />
     <SUITE FILE_PATH="coverage/NumericAnlysis$linear_interpolation.coverage" NAME="linear_interpolation Coverage Results" MODIFIED="1716895210210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Corrected codes with examples" />
     <SUITE FILE_PATH="coverage/NumericAnlysis$inverse_matrix.coverage" NAME="inverse_matrix Coverage Results" MODIFIED="1716969510559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Corrected codes with examples" />
+    <SUITE FILE_PATH="coverage/NumericAnlysis$LU__factorization.coverage" NAME="LU_ factorization Coverage Results" MODIFIED="1716976583507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Corrected codes with examples" />
     <SUITE FILE_PATH="coverage/NumericAnlysis$colors.coverage" NAME="colors Coverage Results" MODIFIED="1716880357190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:\Users\yeuda\PycharmProjects\NumericAnlysis\Last quiz" />
     <SUITE FILE_PATH="coverage/NumericAnlysis$secant_method.coverage" NAME="secant_method Coverage Results" MODIFIED="1716880435231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Last quiz" />
     <SUITE FILE_PATH="coverage/NumericAnlysis$lagrange_interpolation.coverage" NAME="lagrange_interpolation Coverage Results" MODIFIED="1716896499421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Corrected codes with examples" />
