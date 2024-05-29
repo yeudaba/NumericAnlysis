@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="258fa9ce-a4ae-4a08-a5c5-882dad2cb673" name="Changes" comment="Corrected codes + examples" />
+    <list default="true" id="258fa9ce-a4ae-4a08-a5c5-882dad2cb673" name="Changes" comment="Corrected codes + examples">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,8 +37,10 @@
     "Python.Romberg_method.executor": "Run",
     "Python.Simpson_method.executor": "Run",
     "Python.Trapezoidal_method.executor": "Run",
+    "Python.bisection_method.executor": "Run",
     "Python.colors.executor": "Run",
     "Python.condition_of_linear_equations.executor": "Run",
+    "Python.cubicSpline.executor": "Run",
     "Python.gauss_seidel.executor": "Run",
     "Python.gaussian_elimination.executor": "Run",
     "Python.inverse_matrix.executor": "Run",
@@ -109,7 +113,7 @@
       <workItem from="1716877219608" duration="1574000" />
       <workItem from="1716879317180" duration="9071000" />
       <workItem from="1716906653678" duration="304000" />
-      <workItem from="1716963294234" duration="4932000" />
+      <workItem from="1716963294234" duration="5884000" />
     </task>
     <task id="LOCAL‎-00001" summary="add">
       <option name="closed" value="true" />
@@ -215,7 +219,15 @@
       <option name="project" value="LOCAL‎" />
       <updated>1716978097679</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL‎-00014" summary="Corrected codes + examples">
+      <option name="closed" value="true" />
+      <created>1716978379516</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL‎-00014" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1716978379516</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,9 +248,11 @@
     <SUITE FILE_PATH="coverage/NumericAnlyisis$lagrange_interpolation.coverage" NAME="lagrange_interpolation Coverage Results" MODIFIED="1715693078630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Last quiz" />
     <SUITE FILE_PATH="coverage/NumericAnlysis$Jacobi.coverage" NAME="Jacobi Coverage Results" MODIFIED="1716977819950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Corrected codes with examples" />
     <SUITE FILE_PATH="coverage/NumericAnlysis$matrix_utility.coverage" NAME="matrix_utility Coverage Results" MODIFIED="1716963367931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Corrected codes with examples" />
+    <SUITE FILE_PATH="coverage/NumericAnlysis$cubicSpline.coverage" NAME="cubicSpline Coverage Results" MODIFIED="1716979277299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Corrected codes with examples" />
     <SUITE FILE_PATH="coverage/NumericAnlysis$linear_interpolation.coverage" NAME="linear_interpolation Coverage Results" MODIFIED="1716895210210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Corrected codes with examples" />
     <SUITE FILE_PATH="coverage/NumericAnlysis$inverse_matrix.coverage" NAME="inverse_matrix Coverage Results" MODIFIED="1716969510559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Corrected codes with examples" />
     <SUITE FILE_PATH="coverage/NumericAnlysis$LU__factorization.coverage" NAME="LU_ factorization Coverage Results" MODIFIED="1716976583507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Corrected codes with examples" />
+    <SUITE FILE_PATH="coverage/NumericAnlysis$bisection_method.coverage" NAME="bisection_method Coverage Results" MODIFIED="1716978349057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Corrected codes with examples" />
     <SUITE FILE_PATH="coverage/NumericAnlysis$colors.coverage" NAME="colors Coverage Results" MODIFIED="1716880357190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:\Users\yeuda\PycharmProjects\NumericAnlysis\Last quiz" />
     <SUITE FILE_PATH="coverage/NumericAnlysis$secant_method.coverage" NAME="secant_method Coverage Results" MODIFIED="1716880435231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Last quiz" />
     <SUITE FILE_PATH="coverage/NumericAnlysis$lagrange_interpolation.coverage" NAME="lagrange_interpolation Coverage Results" MODIFIED="1716896499421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Corrected codes with examples" />
