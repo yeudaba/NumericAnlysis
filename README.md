@@ -1,4 +1,4 @@
 # Numeric Anlysis
 
-# yeuda baza- 208029189
+# yeuda baza- 
 # Roy Zaburoff-205685555
